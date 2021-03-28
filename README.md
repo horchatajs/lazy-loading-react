@@ -1,6 +1,4 @@
- <p align="center">
-  <img src="miniatura.png" alt="Youtube, Nelsonher, horchatajs"/>
-</p>
+
 
 <h3>
 <p align="center">Aprende como implementar Lazy Loading a tus imagenes con Intersection Observer API y React JS</p>
